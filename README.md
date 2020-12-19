@@ -34,8 +34,8 @@ Content Creator and Fullstack Software Developer
 
 
 <p align="center">
-  <a href="https://github.com/habibalmawali">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibalmawali&layout=compact&hide_border=true&show_icons=true&count_private=true" alt="habibalmawali's github stats">
+  <a href="https://github.com/DILEEP-YADAV">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DILEEP-YADAV&langs_count=8 &layout=compact&hide_border=true&show_icons=true&count_private=true" alt="habibalmawali's github stats">
   </a>
 </p>
 
