@@ -1,14 +1,14 @@
 <h1 align="center">
 Hi There 👋 <br> 
-This is Habib AlMawali
+This is Dileep Yadav
 </h1>
 
 <h3 align="center">
-Content Creator and Software Developer
+Content Creator and Fullstack Software Developer
 </h3>
 
  <p align="center">
-  <img src="https://habib.al-mawali.com/wp-content/uploads/ibm-cloud.png" alt="ibm certified" width="126" height="80"/>
+  <img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/a3840b1f-8bcd-4f75-b843-eedcb449408e/Image/2fc0c97e0d34dd0521d365a20102dcee/oracle_certification_badge_oc_associate.png" alt="oracle certified" width="126" height="80"/>
   <!-- <img src="https://habib.al-mawali.com/wp-content/uploads/KTBase-Technologies.png" alt="ktbase" width="133" height="80"/> -->
  </p>
 
