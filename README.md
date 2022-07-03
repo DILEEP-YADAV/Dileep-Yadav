@@ -4,7 +4,7 @@ This is Dileep Yadav
 </h1>
 
 <h3 align="center">
-Content Creator and Fullstack Software Developer
+Java and ML and AI Fullstack Software Developer
 </h3>
 
  <p align="center">
